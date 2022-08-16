@@ -3,7 +3,7 @@ name: Balance Request
 about: Something seem a little strong? or a little weak? Use this template to share
   your way of fixing the issue.
 title: "[BALANCE] title here"
-labels: ''
+labels: balance request
 assignees: ''
 
 ---

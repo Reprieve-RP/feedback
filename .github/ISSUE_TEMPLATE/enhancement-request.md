@@ -1,8 +1,8 @@
 ---
 name: Enhancement Request
 about: Want to make a existing feature better? Now is your chance.
-title: "[ENHANCEMENT]"
-labels: ''
+title: "[ENHANCEMENT] title here"
+labels: enhancement
 assignees: ''
 
 ---

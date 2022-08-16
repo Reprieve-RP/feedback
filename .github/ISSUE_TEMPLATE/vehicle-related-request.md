@@ -1,9 +1,9 @@
 ---
 name: Vehicle Related Request
-about: Is a car too slow? Too fast? Too cheap? Too affordable? Anything performance
-  related use this template.
+about: Is a car too slow? Too fast? Anything performance related use this template,
+  For vehicle prices please use the Balance Request template.
 title: "[VEHICLE] title here"
-labels: ''
+labels: vehicle related
 assignees: ''
 
 ---
